@@ -1,0 +1,26 @@
+Ex-2.1
+Create a function that takes a number num and returns its length.
+
+Ex-2.2
+In cricket, an over consists of six deliveries a bowler bowls from one end. Create a program that takes the number of balls bowled by a bowler and calculates the number of overs and balls bowled by him/her. Return the value as a float, in the format overs.balls.
+Example : 15 => 2.3
+	  24 => 6.0
+	  05 => 0.5
+
+Ex-2.3
+Convert hours and Minutes into Seconds
+example format 01:22:20 => 4940
+
+Ex-2.4
+### Validate Pin ###
+
+Take a input to test if a string is a valid pin or not.
+
+A valid pin has:
+	Exactly 4 or 6 characters.
+	Only numerical characters (0-9).
+	No whitespace.
+
+Ex-2.5
+
+Create a Basic caluclator
